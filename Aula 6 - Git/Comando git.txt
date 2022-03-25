@@ -1,0 +1,8 @@
+1 - Primeiro criar o repositorio no site github
+2 - Ir no diretório desejado, clicar com o botão direito do mouse, Git BASH here
+3 - git init
+4 - git add "arquivo ou pasta" (pode ser git add. (dessa forma ele vai colocar todos os arquivos que estao dentro da pasta))
+5 - git commit -m "Comentario"
+6 - git branch -M main (caso esteja master)
+7 - git remote add origin "URL encontrada no repositorio recem criado"
+8 - git push -u origin main
